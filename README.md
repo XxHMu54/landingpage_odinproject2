@@ -1,2 +1,3 @@
 # landingpage_odinproject2
-practice 
+
+This is practice for me.
